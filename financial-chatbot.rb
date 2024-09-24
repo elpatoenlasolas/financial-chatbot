@@ -4,7 +4,7 @@ class FinancialChatbot < Formula
     desc "A terminal bot for financial literacy"
     homepage "https://github.com/elpatoenlasolas/homebrew-financial-bot"
     url "https://github.com/elpatoenlasolas/homebrew-financial-bot/archive/refs/tags/v0.1.0.tar.gz"
-    sha256 "84560c444ed4ebb89e8db92677a55414f39d0cc2c9cfc5919bf5f30146c8454d" 
+    sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5" 
     license "MIT"
   
     depends_on "python@3.11"
