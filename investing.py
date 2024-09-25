@@ -48,7 +48,7 @@ responses = [
     "Be wary of investment scams and do thorough due diligence.",
     "Set realistic expectations for your investment returns.",
     "Understand the importance of an emergency fund before investing.",
-    "Continuous learning is key to successful investing."
+    "Continuous learning is key to successful investing.",
 ]
 
 def get_investing_response():

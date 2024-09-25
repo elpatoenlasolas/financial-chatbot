@@ -47,7 +47,7 @@ responses = [
     "Understand that building credit takes time and effort.",
     "Educate yourself about identity theft and how to protect your credit.",
     "Always read the fine print when applying for credit.",
-    "Consider credit unions for better rates and terms."
+    "Consider credit unions for better rates and terms.",
 ]
 
 def get_credit_response():

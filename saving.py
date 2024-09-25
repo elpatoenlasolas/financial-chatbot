@@ -51,7 +51,7 @@ responses = [
     "Start small; even a few dollars saved can add up over time.",
     "Encourage a savings mindset in your household.",
     "Take advantage of employer-sponsored savings plans.",
-    "Review your goals frequently to stay on track."
+    "Review your goals frequently to stay on track.",
 ]
 
 def get_saving_response():

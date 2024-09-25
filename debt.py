@@ -47,7 +47,7 @@ responses = [
     "Stay focused on your financial goals, even when it's challenging.",
     "Learn about the long-term effects of debt on financial stability.",
     "Consider leveraging community resources for debt management support.",
-    "Avoid quick fixes; focus on sustainable debt repayment strategies."
+    "Avoid quick fixes; focus on sustainable debt repayment strategies.",
 ]
 
 def get_debt_response():

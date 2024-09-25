@@ -16,5 +16,5 @@ setup(
     description='A terminal bot for financial literacy',
     author='Your Name',
     author_email='your.email@example.com',
-    url='https://github.com/yourusername/financial-chatbot',  # Update with your GitHub repo
+    url='https://github.com/yourusername/financial-chatbot',  
 )

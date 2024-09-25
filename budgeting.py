@@ -51,7 +51,7 @@ responses = [
     "Set aside money for irregular expenses, such as holidays or gifts.",
     "Don't forget about retirement savings in your budget.",
     "Consider using visual tools like charts to track your budget progress.",
-    "A budget is not just a constraint; it’s a path to financial freedom."
+    "A budget is not just a constraint; it’s a path to financial freedom.",
 ]
 
 def get_budgeting_response():

@@ -15,7 +15,7 @@ response_functions = {
 
 def financial_chatbot():
     print("Welcome to the Financial Literacy Chatbot!")
-    print("You can ask about budgeting, saving, investing, credit, or debt.")
+    print("You can ask about Budgeting, Saving, Investing, Credit, or Debt.")
     print("Type 'exit' to quit the chat.")
 
     while True:
